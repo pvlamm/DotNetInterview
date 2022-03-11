@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetInterview.Core", "DotNetInterview.Core\DotNetInterview.Core.csproj", "{43B8BE0F-DEC0-4BD8-95C4-100D5A3FF4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetInterview.Tests", "DotNetInterview.Tests\DotNetInterview.Tests.csproj", "{5891458D-3848-42D2-935C-04EF042769C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B8BE0F-DEC0-4BD8-95C4-100D5A3FF4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B8BE0F-DEC0-4BD8-95C4-100D5A3FF4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B8BE0F-DEC0-4BD8-95C4-100D5A3FF4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B8BE0F-DEC0-4BD8-95C4-100D5A3FF4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5891458D-3848-42D2-935C-04EF042769C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5891458D-3848-42D2-935C-04EF042769C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5891458D-3848-42D2-935C-04EF042769C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5891458D-3848-42D2-935C-04EF042769C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8B1DC9-A52B-43E8-96B6-B880DF1AD1D3}
+	EndGlobalSection
+EndGlobal
